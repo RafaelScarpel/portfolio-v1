@@ -261,6 +261,12 @@ header nav a{
     font-weight: 500;
 }
 
+.botao-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
 @media screen and (min-width: 1024px) {
     #projetos {
         align-items: center;
@@ -272,6 +278,7 @@ header nav a{
         flex-wrap: wrap;
     }
 }
+
 
 /* Serviços e conhecimentos */
 
