@@ -190,6 +190,7 @@ header nav a{
 
 .mobile-sobre > img {
     border-radius: 4px;
+    width: 100%;
 }
 
 .sobre-links {
